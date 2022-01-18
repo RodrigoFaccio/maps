@@ -68,3 +68,16 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+tarefas
+Criar aplicação WEB com ReactJS (Pode usar o CRA para criar a aplicação)
+
+- Fazer tela de login simples (com autenticação local)
+- Criar rota para página de Mapa
+- Criar mapa utilizando framework abaixo-foi
+- Utilizar framework LeafletJS (https://codesandbox.io/s/pm8pro1olm?file=/Map.js)-foi
+- Colocar map em container fullscreen sem scroll-foi
+- Utilizar pattern de estilos (styled components)
+- Centralizar mapa na sua cidade-foi
+- Colocar 3 Markers (marcadores) na sua cidade-foi
+- Código limpo enviado pelo Git
